@@ -1,6 +1,6 @@
 # ✨ [Tic-Tac-Toe](https://rohitpalekar.github.io/Tic-Tac-Toe/)
 
-A sleek and interactive **Tic-Tac-Toe** game built using HTML, CSS, and vanilla JavaScript.
+A responsive and fully interactive Tic-Tac-Toe game using only front-end technologies — no frameworks, just clean code and smooth gameplay.
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
