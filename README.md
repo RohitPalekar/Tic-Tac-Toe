@@ -10,10 +10,6 @@ An elegant and interactive Tic-Tac-Toe experience designed with simplicity and s
 
 ---
 
-## 🎮 Game Preview
-
----
-
 ## 🔥 Features
 
 ✅ Choose between Player **X** or **O**  
